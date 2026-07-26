@@ -520,14 +520,3 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-# 🚀 Future Improvements
-
-- Create interactive dashboards using Power BI or Tableau.
-- Optimize complex queries using indexes.
-- Add stored procedures and views.
-- Perform time-series analysis.
-- Integrate Python for advanced analytics and visualization.
-
----u found this project helpful
-
-If you liked this project, consider giving it a **⭐ Star** on GitHub!
