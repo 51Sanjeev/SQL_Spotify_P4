@@ -173,7 +173,7 @@ official_video = NULLIF(@official_video,''),
 Stream = NULLIF(@Stream,''),
 EnergyLiveness = NULLIF(@EnergyLiveness,''),
 most_playedon = NULLIF(@most_playedon,'');
-;
+
 ```
 
 
